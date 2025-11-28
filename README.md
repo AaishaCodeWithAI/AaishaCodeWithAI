@@ -1,5 +1,5 @@
-# Hi, I'm Aaisha 👋  
-### Aspiring Developer | Cyber Security Student | Web, AI & Cloud Enthusiast
+# Hi, I'm Aaisha 👋
+### Beginner Programmer | Cybersecurity Student | Exploring Web, AI & Cloud Technologies
 
 💻 I’m currently pursuing my Bachelor's of Computer Science specializing in **Cyber Security and Networking**
 💻 I'm also learning about **Web Development and AI**
