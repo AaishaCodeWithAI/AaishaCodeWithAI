@@ -1,11 +1,12 @@
 # Hi, I'm Aaisha 👋
 ### Beginner Programmer | Cybersecurity Student | Exploring Web, AI & Cloud Technologies
 
-💻 I’m currently pursuing my Bachelor's of Computer Science specializing in **Cyber Security and Networking**
-💻 I'm also learning about **Web Development and AI**
-🚀 I’m working on improving my skills through real projects  
-📚 Second Semester CS Student  
-🎯 My goal: Build strong projects + master full-stack development + become tech professional.
+### 💻 About Me
+- 💻 Currently pursuing **Bachelor's in Computer Science**, specializing in Cybersecurity and Networking  
+- 💻 Learning **Web Development** and **AI**  
+- 🚀 Working on improving skills through **real projects**  
+- 📚 Second Semester CS Student  
+- 🎯 Goal: Build strong projects, master **full-stack development**, and become a **tech professional**
 
 ---
 
