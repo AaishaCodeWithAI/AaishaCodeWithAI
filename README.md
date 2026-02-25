@@ -38,4 +38,4 @@
 - LinkedIn (coming soon)  
 - Email: jhaaaisha78@gmail.com
 
-### Take help and make for yourself by using ChatGPT.
+### I took help from ChatGPT. You may take help from it.
